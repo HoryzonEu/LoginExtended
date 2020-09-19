@@ -1,0 +1,19 @@
+spectateEntity: ''
+
+### BOSSBAR SETTINGS ###
+bossbar:
+  enable: true
+  color: WHITE
+  # 0, 6, 10, 12 or 20
+  segment: 20
+
+### TITLE SETTINGS ###
+title:
+  enable: true
+  fadeIn: 1
+  stay: 10
+  fadeOut: 1
+  # Delay before the first title is send.
+  delay: 5
+  # Period between 2 titles. Set to 0 to disable it.
+  period: 5

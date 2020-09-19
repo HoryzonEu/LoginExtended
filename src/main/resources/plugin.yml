@@ -1,0 +1,7 @@
+name: LoginExtended
+main: eu.horyzon.loginextended.LoginExtended
+api-version: 1.13
+version: 1.0
+description: Login extended plugin !
+author: LLIcocoman_Hrz
+softdepend: [AuthMe]
