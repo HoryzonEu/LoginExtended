@@ -1,0 +1,2 @@
+# LoginExtended
+Login plugin
